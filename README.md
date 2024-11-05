@@ -1,6 +1,6 @@
 # Machine Learning for Time Series
 
-**Instructors**:
+**Instructors**: 
 Laurent Oudre and Charles Truong  
 
 École Normale Supérieure Paris Saclay  
